@@ -1,5 +1,6 @@
 # Simple 2D LiDAR Odometry
 
+[![Video Link](https://i.postimg.cc/htnHxkH7/2023-10-28-5-35-55.png)](https://youtu.be/9CWUMSL1x-A)
 ## Overview
 
 `Simple-2D-LiDAR-Odometry` is a straightforward implementation of 2D LiDAR-based odometry using the Generalized Iterative Closest Point (GICP) algorithm. It has been tested and verified on ROS 2 Humble. The primary libraries utilized for this project are Eigen and Point Cloud Library (PCL).
