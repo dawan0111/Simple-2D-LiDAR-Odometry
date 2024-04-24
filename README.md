@@ -25,7 +25,7 @@ sudo apt-get install libeigen3-dev libpcl-dev
 
 ```bash
 cd ~/ros2_ws/src/
-git clone https://github.com/your_username/Simple-2D-LiDAR-Odometry.git
+git clone https://github.com/dawan0111/Simple-2D-LiDAR-Odometry.git
 ```
 
 4. Build the package:
